@@ -1,0 +1,200 @@
+2024-04-10T09:19:57+00:00 NOTICE webhooks :: Ran plugin updater
+2024-04-10T09:42:06+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 661659b7107f6
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 0440534eec
+            [name] => Fashion Store
+            [domain] => http://localhost/wordpress
+            [email_address] => asifshaikhauto123@gmail.com
+            [currency_code] => INR
+            [money_format] => ₹
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 7447272902
+            [address] => Array
+                (
+                    [address1] => Sant tukaram nagar pimpri colouny
+                    [city] => pune
+                    [province] => MH
+                    [postal_code] => 411018
+                    [country] => IN
+                    [country_code] => IN
+                    [phone] => 7447272902
+                    [company] => Fashion Store
+                )
+
+        )
+
+)
+
+2024-04-10T09:42:17+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 661659b7107f6
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 0440534eec
+            [name] => Fashion Store
+            [domain] => http://localhost/wordpress
+            [email_address] => asifshaikhauto123@gmail.com
+            [currency_code] => INR
+            [money_format] => ₹
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 7447272902
+            [address] => Array
+                (
+                    [address1] => Sant tukaram nagar pimpri colouny
+                    [city] => pune
+                    [province] => MH
+                    [postal_code] => 411018
+                    [country] => IN
+                    [country_code] => IN
+                    [phone] => 7447272902
+                    [company] => Fashion Store
+                )
+
+        )
+
+)
+
+2024-04-10T09:42:24+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2024-04-10T09:42:28+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 661659b7107f6
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 0440534eec
+            [name] => Fashion Store
+            [domain] => http://localhost/wordpress
+            [email_address] => asifshaikhauto123@gmail.com
+            [currency_code] => INR
+            [money_format] => ₹
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 7447272902
+            [address] => Array
+                (
+                    [address1] => Sant tukaram nagar pimpri colouny
+                    [city] => pune
+                    [province] => MH
+                    [postal_code] => 411018
+                    [country] => IN
+                    [country_code] => IN
+                    [phone] => 7447272902
+                    [company] => Fashion Store
+                )
+
+        )
+
+)
+
+2024-04-10T09:42:37+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2024-04-10T09:42:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_WebHooks_Sync queued
+2024-04-10T09:42:37+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Wed, Apr 10, 2024 9:42 AM
+2024-04-10T09:42:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2024-04-10T09:42:59+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2024-04-10T09:42:59+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 19
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 24
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 48
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 52
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 54
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 55
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 56
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 87
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 93
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 98
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 111
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 112
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 113
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 114
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 115
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 116
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 117
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 118
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 401
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 404
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 508
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 662
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 663
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 664
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 665
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 668
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 670
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 671
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 672
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 679
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 680
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 681
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 692
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 693
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 694
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 695
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 696
+2024-04-10T09:42:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 697
+2024-04-10T09:43:01+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2024-04-10T09:43:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #19
+2024-04-10T09:43:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #24
+2024-04-10T09:43:10+00:00 NOTICE product_submit.success :: addStoreProduct :: #48
+2024-04-10T09:43:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #52
+2024-04-10T09:43:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #54
+2024-04-10T09:43:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #55
+2024-04-10T09:44:07+00:00 NOTICE product_submit.success :: addStoreProduct :: #56
+2024-04-10T09:44:09+00:00 NOTICE product_submit.success :: addStoreProduct :: #87
+2024-04-10T09:44:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #93
+2024-04-10T09:44:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #98
+2024-04-10T09:44:16+00:00 NOTICE product_submit.success :: addStoreProduct :: #111
+2024-04-10T09:44:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #112
+2024-04-10T09:44:21+00:00 NOTICE product_submit.success :: addStoreProduct :: #113
+2024-04-10T09:44:24+00:00 NOTICE product_submit.success :: addStoreProduct :: #114
+2024-04-10T09:44:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #115
+2024-04-10T09:45:14+00:00 NOTICE product_submit.success :: addStoreProduct :: #116
+2024-04-10T09:45:17+00:00 NOTICE product_submit.success :: addStoreProduct :: #117
+2024-04-10T09:45:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #118
+2024-04-10T09:45:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #401
+2024-04-10T09:45:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #404
+2024-04-10T09:45:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #508
+2024-04-10T09:45:30+00:00 NOTICE product_submit.success :: addStoreProduct :: #662
+2024-04-10T09:45:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #663
+2024-04-10T09:46:15+00:00 NOTICE product_submit.success :: addStoreProduct :: #664
+2024-04-10T09:46:18+00:00 NOTICE product_submit.success :: addStoreProduct :: #665
+2024-04-10T09:46:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #668
+2024-04-10T09:46:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #670
+2024-04-10T09:46:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #671
+2024-04-10T09:46:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #672
+2024-04-10T09:46:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #679
+2024-04-10T09:47:53+00:00 NOTICE product_submit.success :: addStoreProduct :: #680
+2024-04-10T09:47:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #681
+2024-04-10T09:47:59+00:00 NOTICE product_submit.success :: addStoreProduct :: #692
+2024-04-10T09:48:02+00:00 NOTICE product_submit.success :: addStoreProduct :: #693
+2024-04-10T09:48:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #694
+2024-04-10T09:48:08+00:00 NOTICE product_submit.success :: addStoreProduct :: #695
+2024-04-10T09:50:19+00:00 NOTICE product_submit.success :: addStoreProduct :: #696
+2024-04-10T09:50:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #697
+2024-04-10T09:50:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2024-04-10T09:50:24+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2024-04-10T09:52:14+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Apr 10, 2024 9:52 AM (total time: 00:09:37)
